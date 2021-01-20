@@ -40,9 +40,6 @@ title: "Awesome list of robot systems using ROS"
 ## CargoSteps GmbH & Co. KG
 <iframe width="640" height="360" src="https://www.youtube.com/embed/7fWAxUUWFRI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## College
-<iframe width="640" height="360" src="https://www.youtube.com/embed/sJpIB1qDBU4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Dave's Armoury
 <iframe width="640" height="360" src="https://www.youtube.com/embed/h_7xkxqCnUc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
