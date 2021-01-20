@@ -29,7 +29,7 @@ twitter_username: christophhellm3
 github_username:  ipa-cmh
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
