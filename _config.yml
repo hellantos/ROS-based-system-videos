@@ -1,8 +1,6 @@
 title: An awesome list of videos with robots running ROS
 email: cmh@ipa.fraunhofer.de
 description: >- # this means to ignore newlines until "baseurl:"
-  This website contains a list of videos showing robot systems that run ROS and
-  are continuously in production.
 
 # Build settings
 theme: jekyll-theme-cayman
