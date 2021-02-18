@@ -54,6 +54,8 @@ title: "Robots running ROS"
 ## Fraunhofer IPA
 <iframe width="640" height="360" src="https://www.youtube.com/embed/xXR2FxPVqa4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/KVXQ9M81iwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/OwAF8hsO58o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Fraunhofer IVI
 <iframe width="640" height="360" src="https://www.youtube.com/embed/1g86sH44y50" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
