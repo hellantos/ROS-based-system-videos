@@ -112,6 +112,7 @@ title: "Robots running ROS"
 
 ## Clear Path Robotics
 <iframe width="640" height="360" src="https://www.youtube.com/embed/KIzMr0oOank" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/SGpnab2OqFc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Fizyr
 <iframe width="640" height="360" src="https://www.youtube.com/embed/kCR6aYmVN4U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
